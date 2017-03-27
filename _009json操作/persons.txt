@@ -1,0 +1,89 @@
+﻿[
+  {
+    "name": "程亮",
+    "level": 99,
+    "age": 20,
+    "id": 1001,
+    "skillList": [
+      {
+        "damage": 123,
+        "id": 2,
+        "name": "天下无双"
+      },
+      {
+        "damage": 30,
+        "id": 3,
+        "name": "咫尺天涯"
+      },
+      {
+        "damage": 67,
+        "id": 4,
+        "name": "天使之剑"
+      },
+      {
+        "damage": 90,
+        "id": 5,
+        "name": "无影腿"
+      }
+    ]
+
+  },
+  {
+    "name": "小明",
+    "level": 99,
+    "age": 20,
+    "id": 1001,
+    "skillList": [
+      {
+        "damage": 123,
+        "id": 2,
+        "name": "天下无双"
+      },
+      {
+        "damage": 30,
+        "id": 3,
+        "name": "咫尺天涯"
+      },
+      {
+        "damage": 67,
+        "id": 4,
+        "name": "天使之剑"
+      },
+      {
+        "damage": 90,
+        "id": 5,
+        "name": "无影腿"
+      }
+    ]
+
+  },
+  {
+    "age": 20,
+    "id": 1001,
+    "level": 99,
+    "name": "小红",
+    "skillList": [
+      {
+        "damage": 123,
+        "id": 2,
+        "name": "天下无双"
+      },
+      {
+        "damage": 30,
+        "id": 3,
+        "name": "咫尺天涯"
+      },
+      {
+        "damage": 67,
+        "id": 4,
+        "name": "天使之剑"
+      },
+      {
+        "damage": 90,
+        "id": 5,
+        "name": "无影腿"
+      }
+    ]
+  }
+
+]

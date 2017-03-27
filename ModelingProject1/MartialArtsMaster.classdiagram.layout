@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MartialArtsMaster">
+  <logicalClassDesignerModelMoniker Id="a8a4f1dc-93da-4f6d-9ca1-ce984b590976" />
+  <nestedChildShapes>
+    <classShape Id="9d3af967-ccda-4a23-b7c4-1bfa18b1cee1" absoluteBounds="1.75, 2.125, 1.5, 2.1718294270833338" hideQualifiedName="false" increaseHeight="0.20650390625" customColor="181, 193, 223">
+      <classMoniker Id="f15b8387-d656-4df5-bbc4-0e9fd86a6ac3" LastKnownName="Class1" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="2d6b919b-764f-4fd9-b721-86c74ff19d1b" absoluteBounds="1.7650000000000001, 2.6526692708333335, 1.4700000000000002, 1.287841796875" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="df337490-e3ad-41c6-88af-b06025a44d32" absoluteBounds="1.765, 3.9505110677083337, 1.4700000000000002, 0.24631835937500024" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>
